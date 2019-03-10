@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GolfScorecard</string>
+    <string name="action_clear_stroke">Clear Stroke</string>
+</resources>
